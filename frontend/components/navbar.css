@@ -1,0 +1,33 @@
+.UnderlineNav-item-this-page {
+  font-weight: 600;
+  color: #24292e;
+  border-bottom-width: medium;
+  border-bottom-color: #f9826c;
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+}
+.UnderlineNav-item-this-page:hover {
+  font-weight: 800;
+  color: #24292e;
+  border-bottom-width: medium;
+  border-bottom-color: #f9826c;
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+}
+.UnderlineNav-item {
+  font-weight: 300;
+  color: #24292e;
+  border-bottom-width: 1px;
+  border-bottom-color: #24292e;
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+}
+
+.UnderlineNav-item:hover {
+  font-weight: 800;
+  color: #24292e;
+  border-bottom-width: medium;
+  border-bottom-color: #24292e;
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+}
